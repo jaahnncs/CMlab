@@ -2,13 +2,13 @@
  
 int main()
 {
-   int n;
+   int m;
  
    printf("Enter an integer\n");
    scanf("%d", &n);
  
    if (n%2 == 0)
-      printf("Even\n");
+      printf("Evenssหss\n\n");
    else
       printf("Odd\n");
  
